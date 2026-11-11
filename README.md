@@ -1,5 +1,6 @@
 <h1 align="center">
-  ˹ ♡̷̷ˎˊ˗ 𝑺𝒐𝒖𝒍 × 𝑴𝒖𝒔𝒊𝒄 🎶 ˼ 
+  ˹ ♡̷̷ˎˊ˗ 𝑺𝒐𝒖𝒍 × 𝑴𝒖𝒔𝒊𝒄 🎶
+ ˼ 
 </h1><p align="center">
   <b>🎧 NEXT-GEN TELEGRAM MUSIC BOT</b>
   <br>
