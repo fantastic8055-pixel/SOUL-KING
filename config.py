@@ -10,11 +10,11 @@ load_dotenv()
 # Required credentials
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
-BOT_TOKEN = getenv("BOT_TOKEN" , "9085209537:AAHdEp_qSsiLQxxLe3TjsUYXsiaMhkp2S8o" )
+BOT_TOKEN = getenv("BOT_TOKEN" , "8577251861:AAGSRS_X4QMryvbWjdvUyFRn 1adq59wpi_c" )
 
 # Bot and owner info
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Nyx_Zam")
-BOT_USERNAME = getenv("BOT_USERNAME", "Sexiebbe_bot")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "vinnu_exe")
+BOT_USERNAME = getenv("BOT_USERNAME", "Soul_ke_music_bot")
 BOT_NAME = getenv("BOT_NAME", "˹ ♡̷̷ˎˊ˗ 𝑺𝒐𝒖𝒍 × 𝑴𝒖𝒔𝒊𝒄 🎶
  ˼")
 ASSUSERNAME = getenv("ASSUSERNAME", "Fighter")
