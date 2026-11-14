@@ -10,7 +10,7 @@ load_dotenv()
 # Required credentials
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
-BOT_TOKEN = getenv("BOT_TOKEN" , "8577251861:AAGSRS_X4QMryvbWjdvUyFRn 1adq59wpi_c" )
+BOT_TOKEN = getenv("BOT_TOKEN" , "9059848701:AAEjaIuGPaCBYdu_14NFQSbyWBbpFNBzZVs" )
 
 # Bot and owner info
 OWNER_USERNAME = getenv("OWNER_USERNAME", "vinnu_exe")
