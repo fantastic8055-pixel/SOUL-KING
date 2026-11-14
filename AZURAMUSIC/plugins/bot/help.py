@@ -27,9 +27,9 @@ from AZURAMUSIC.utils.stuffs.helper import Helper
 
 # 🖼️ Code ke andar hi SHASHANK_IMG ki list bana di gayi hai
 SHASHANK_IMG = [
-    "https://iili.io/nS6IydJ.jpg",
-    "https://iili.io/nS6IydJ.jpg",
-    "https://iili.io/nS6IydJ.jpg",
+    "https://iili.io/o9My2v2.jpg",
+    "https://iili.io/o9My2v2.jpg",
+    "https://iili.io/o9My2v2.jpg",
 ]
 
 
