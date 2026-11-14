@@ -13,7 +13,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN" , "9059848701:AAEjaIuGPaCBYdu_14NFQSbyWBbpFNBzZVs" )
 
 # Bot and owner info
-OWNER_USERNAME = getenv("OWNER_USERNAME", "vinnu_exe")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Usernamehaiye1")
 BOT_USERNAME = getenv("BOT_USERNAME", "ZoyaProMusicBot")
 BOT_NAME = getenv("BOT_NAME", "♡̷̷ˎˊ˗ 𝑺𝒐𝒖𝒍 × 𝑴𝒖𝒔𝒊𝒄 🎶")
 ASSUSERNAME = getenv("ASSUSERNAME", "Fighter")
@@ -97,20 +97,20 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", getenv("LOGGER_ID", "0")))
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", SUPPORT_CHAT)
 
 # Image URLs
-SHASHANK_IMG = getenv("SHASHANK_IMG", "https://iili.io/nS6IydJ.jpg").split(",") if "," in getenv("SHASHANK_IMG", "https://iili.io/nS6IydJ.jpg") else [getenv("SHASHANK_IMG", "https://iili.io/nS6IydJ.jpg")]
+SHASHANK_IMG = getenv("SHASHANK_IMG", "https://iili.io/o9My2v2.jpg").split(",") if "," in getenv("SHASHANK_IMG", "https://iili.io/o9My2v2.jpg") else [getenv("SHASHANK_IMG", "https://iili.io/o9My2v2.jpg")]
 
-START_IMG_URL = getenv("START_IMG_URL", "https://iili.io/nS6IydJ.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://iili.io/nS6IydJ.jpg")
-PLAYLIST_IMG_URL = "https://iili.io/nS6IydJ.jpg"
-STATS_IMG_URL = "https://iili.io/nS6IydJ.jpg"
-TELEGRAM_AUDIO_URL = "https://iili.io/nS6IydJ.jpg"
-TELEGRAM_VIDEO_URL = "https://iili.io/nS6IydJ.jpg"
-STREAM_IMG_URL = "https://iili.io/nS6IydJ.jpg"
-SOUNCLOUD_IMG_URL = "https://iili.io/nS6IydJ.jpg"
-YOUTUBE_IMG_URL = "https://iili.io/nS6IydJ.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://iili.io/nS6IydJ.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://iili.io/nS6IydJ.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://iili.io/nS6IydJ.jpg"
+START_IMG_URL = getenv("START_IMG_URL", "https://iili.io/o9My2v2.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://iili.io/o9My2v2.jpg")
+PLAYLIST_IMG_URL = "https://iili.io/o9My2v2.jpg"
+STATS_IMG_URL = "https://iili.io/o9My2v2.jpg"
+TELEGRAM_AUDIO_URL = "https://iili.io/o9My2v2.jpg"
+TELEGRAM_VIDEO_URL = "https://iili.io/o9My2v2.jpg"
+STREAM_IMG_URL = "https://iili.io/o9My2v2.jpg"
+SOUNCLOUD_IMG_URL = "https://iili.io/o9My2v2.jpg"
+YOUTUBE_IMG_URL = "https://iili.io/o9My2v2.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://iili.io/o9My2v2.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://iili.io/o9My2v2.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://iili.io/o9My2v2.jpg"
 
 
 # Helper function
