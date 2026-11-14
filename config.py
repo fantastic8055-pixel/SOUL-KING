@@ -14,7 +14,7 @@ BOT_TOKEN = getenv("BOT_TOKEN" , "8577251861:AAGSRS_X4QMryvbWjdvUyFRn 1adq59wpi_
 
 # Bot and owner info
 OWNER_USERNAME = getenv("OWNER_USERNAME", "vinnu_exe")
-BOT_USERNAME = getenv("BOT_USERNAME", "Soul_ke_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME", "ZoyaProMusicBot")
 BOT_NAME = getenv("BOT_NAME", "♡̷̷ˎˊ˗ 𝑺𝒐𝒖𝒍 × 𝑴𝒖𝒔𝒊𝒄 🎶")
 ASSUSERNAME = getenv("ASSUSERNAME", "Fighter")
 
@@ -24,7 +24,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 # Limits and IDs
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
-LOGGER_ID = int(getenv("LOGGER_ID", -1003526601689))
+LOGGER_ID = int(getenv("LOGGER_ID", -1003954155786))
 OWNER_ID = int(getenv("OWNER_ID", 8004659030))
 OWNER_ID = 7450836393
 
@@ -43,8 +43,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/urplaylist_wtme")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+pZNdOlVwo9c2Mzc1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/wallpaper_pfp_dp")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/wallpaper_pfp_dp")
 
 # Assistant settings
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
