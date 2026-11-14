@@ -37,9 +37,9 @@ except ImportError:
 welcome_db = db.welcome_config
 
 YUMI_PICS = [
-    "https://iili.io/nS6IydJ.jpg",
-    "https://iili.io/nS6IydJ.jpg",
-    "https://iili.io/nS6IydJ.jpg",
+    "https://iili.io/o9My2v2.jpg",
+    "https://iili.io/o9My2v2.jpg",
+    "https://iili.io/o9My2v2.jpg",
 ]
 
 GREET = ["💞", "🥂", "🔍", "🧪", "⚡", "🔥"]
