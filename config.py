@@ -10,11 +10,11 @@ load_dotenv()
 # Required credentials
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
-BOT_TOKEN = getenv("BOT_TOKEN" , "9059848701:AAEjaIuGPaCBYdu_14NFQSbyWBbpFNBzZVs" )
+BOT_TOKEN = getenv("BOT_TOKEN" , "8577251861:AAGSRS_X4QMryvbWjdvUyFRn1adq59wpi_c" )
 
 # Bot and owner info
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Usernamehaiye1")
-BOT_USERNAME = getenv("BOT_USERNAME", "ZoyaProMusicBot")
+BOT_USERNAME = getenv("BOT_USERNAME", "Soul_ke_music_bot")
 BOT_NAME = getenv("BOT_NAME", "♡̷̷ˎˊ˗ 𝑺𝒐𝒖𝒍 × 𝑴𝒖𝒔𝒊𝒄 🎶")
 ASSUSERNAME = getenv("ASSUSERNAME", "Fighter")
 
@@ -43,8 +43,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/wallpaper_pfp_dp")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/wallpaper_pfp_dp")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/dagabazre")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/dagabazre")
 
 # Assistant settings
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
