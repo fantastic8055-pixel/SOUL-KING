@@ -40,12 +40,12 @@ async def start(_, msg):
         [
             InlineKeyboardButton(
                 text="˹𝐍ᴇᴛᴡᴏʀᴋ˼",
-                url="https://t.me/wallpaper_pfp_dp",
+                url="https://t.me/dagabazre",
                 style=ButtonStyle.PRIMARY,
             ),
             InlineKeyboardButton(
                 text="˹𝐌ʏ 𝐇ᴏᴍᴇ˼",
-                url="https://t.me/wallpaper_pfp_dp",
+                url="https://t.me/dagabazre",
                 style=ButtonStyle.SUCCESS,
             ),
         ],
